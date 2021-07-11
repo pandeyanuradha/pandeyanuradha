@@ -11,7 +11,7 @@
 - :woman_student: I'm a Computer Science undergrad at BITS Pilani
 - :computer: Currently an open source contributer at [Apertium](https://github.com/apertium)
 - :computer_mouse: The most recent project I did - [Chatbot for mental health](https://github.com/pandeyanuradha/Chatbot-for-mental-health.git)
-- 🌱 Currently learning **Node.js** and **PyTorch**
+- 🌱 Currently learning Node.js and PyTorch
 - :e-mail: Contact me at anuradha200219@gmail.com
 
 
