@@ -8,8 +8,9 @@
 
 ## :woman_technologist: About me 
 
-- :woman_student: I'm a Computer Science undergrad at BITS Pilani
-- :computer: Currently an open source contributer at [Apertium](https://github.com/apertium)
+- :woman_office_worker:	I'm currently a Software Engineer at Salesforce; prior to which I interned at Apple 
+- :woman_student: I completed my undergraduate studies with a Major in Computer Science and a Minor in Data Science from BITS Pilani
+- :computer: I occasionally also do open source contributions at [Apertium](https://github.com/apertium)
 - :computer_mouse: The most recent project I did - [Structured sentiment analysis using Dependency Graphs](https://github.com/pandeyanuradha/Structured-sentiment-analysis-using-Dependency-Graphs)
 - 🌱 Currently learning Node.js and PyTorch
 - :e-mail: Contact me at anuradha200219@gmail.com
